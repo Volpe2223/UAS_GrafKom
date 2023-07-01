@@ -1,0 +1,48 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl Bark
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd source\\sakura-tree\\source\\1DAE02_Devos_Tatiana_CityScene\\Prop_Tree\\tex\\Bark_D.png
+map_d source\\sakura-tree\\source\\1DAE02_Devos_Tatiana_CityScene\\Prop_Tree\\tex\\Bark_D.png
+
+newmtl Leaves_and_Branches
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd source\\sakura-tree\\source\\1DAE02_Devos_Tatiana_CityScene\\Prop_Tree\\tex\\Sakura branches.png
+map_d source\\sakura-tree\\source\\1DAE02_Devos_Tatiana_CityScene\\Prop_Tree\\tex\\Brances_O.png
+
+newmtl Material_#0.001
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd source\\sakura-tree\\source\\1DAE02_Devos_Tatiana_CityScene\\Prop_Sandals\\tex\\Sandals_D.png
+
+newmtl Material_#46
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd source\\sakura-tree\\source\\1DAE02_Devos_Tatiana_CityScene\\Prop_Bench\\tex\\Bench_D.png
