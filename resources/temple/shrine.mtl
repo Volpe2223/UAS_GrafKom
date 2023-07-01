@@ -1,0 +1,1067 @@
+# Blender MTL File: 'None'
+# Material Count: 81
+
+newmtl SH2_BB_Base_02
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_BB_Base_02_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_BB_Base_02_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_BB_Base_02_Roughness.png
+
+newmtl SH2_BB_Box
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_BB_Box_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_BB_Box_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_BB_Box_Roughness.png
+
+newmtl SH2_BB_Box.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_BB_Box.001_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_BB_Box.001_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_BB_Box.001_Roughness.png
+
+newmtl SH2_BB_Bwoods
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_BB_Bwoods_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_BB_Bwoods_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_BB_Bwoods_Roughness.png
+
+newmtl SH2_MB_Back
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Back_2_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Back_2_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Back_2_Roughness.png
+
+newmtl SH2_MB_Base_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Base_01_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Base_01_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Base_01_Roughness.png
+
+newmtl SH2_MB_Base_02
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Base_02_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Base_02_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Base_02_Roughness.png
+
+newmtl SH2_MB_Bwoods.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.100000 D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Bwoods.001_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Bwoods.001_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Bwoods.001_Roughness.png
+
+newmtl SH2_MB_Bwoods.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.100000 D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\New folder\\New folder\\Shrine_02_Main_01_SH2_MB_Bwoods.001_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\New folder\\New folder\\Shrine_02_Main_01_SH2_MB_Bwoods.001_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\New folder\\New folder\\Shrine_02_Main_01_SH2_MB_Bwoods.001_Roughness.png
+
+newmtl SH2_MB_Bwoods.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Bwoods.003_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Bwoods.003_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Bwoods.003_Roughness.png
+
+newmtl SH2_MB_Bwoods.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump -bm 0.100000 D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\New folder\\Shrine_02_Main_01_SH2_MB_Bwoods.001_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\New folder\\Shrine_02_Main_01_SH2_MB_Bwoods.001_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\New folder\\Shrine_02_Main_01_SH2_MB_Bwoods.001_Roughness.png
+
+newmtl SH2_MB_Dropes
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Rope_Testing02_SH2_RR_Rope_B_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Rope_Testing02_SH2_RR_Rope_B_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Rope_Testing02_SH2_RR_Rope_B_Roughness.png
+
+newmtl SH2_MB_Dropes.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Rope_Testing02_SH2_RR_Rope_A_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Rope_Testing02_SH2_RR_Rope_A_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Rope_Testing02_SH2_RR_Rope_A_Roughness.png
+
+newmtl SH2_MB_Fpillards
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Fpillards_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Fpillards_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Fpillards_Roughness.png
+refl D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Fpillards_BaseColor.png
+
+newmtl SH2_MB_Hwoods.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Hwoods.002_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Hwoods.002_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Hwoods.002_Roughness.png
+
+newmtl SH2_MB_Hwoods.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Textures\\Testing_02\\Shrine_02_Main_01_SH2_MB_Hwoods.005_NormalOpenGL.jpg
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Textures\\Testing_02\\Shrine_02_Main_01_SH2_MB_Hwoods.005_BaseColor.jpg
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Textures\\Testing_02\\Shrine_02_Main_01_SH2_MB_Hwoods.005_Roughness.jpg
+
+newmtl SH2_MB_MainBase
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_MainBase_2_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_MainBase_2_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_MainBase_2_Roughness.png
+refl D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_MainBase_2_BaseColor.png
+
+newmtl SH2_MB_MainBase.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_MainBase.001_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_MainBase.001_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_MainBase.001_Roughness.png
+refl D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_MainBase.001_BaseColor.png
+
+newmtl SH2_MB_Pillars
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Pillars_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Pillars_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Pillars_Roughness.png
+
+newmtl SH2_MB_Sheet.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Sheet.005_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Sheet.005_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Sheet.005_Roughness.png
+refl D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Sheet.005_BaseColor.png
+
+newmtl SH2_MB_Sheet.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Sheet.003_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Sheet.003_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Sheet.003_Roughness.png
+refl D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Sheet.003_BaseColor.png
+
+newmtl SH2_MB_Sheet.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Sheet.004_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Sheet.004_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Sheet.004_Roughness.png
+refl D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Sheet.004_BaseColor.png
+
+newmtl SH2_MB_Side_Design.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Side_Design.001_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Side_Design.001_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Side_Design.001_Roughness.png
+
+newmtl SH2_MB_Side_Design.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Side_Design.002_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Side_Design.002_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Side_Design.002_Roughness.png
+
+newmtl SH2_MB_Side_Design.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Side_Design.004_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Side_Design.004_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Side_Design.004_Roughness.png
+refl D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Side_Design.004_BaseColor.png
+
+newmtl SH2_MB_Side_Design.006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Side_Design.006_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Side_Design.006_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Side_Design.006_Roughness.png
+refl D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Side_Design.006_BaseColor.png
+
+newmtl SH2_MB_Side_Design.007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Side_Design.007_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Side_Design.007_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Side_Design.007_Roughness.png
+refl D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Side_Design.007_BaseColor.png
+
+newmtl SH2_MB_Side_Design.008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Side_Design.008_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Side_Design.008_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Side_Design.008_Roughness.png
+refl D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Side_Design.008_BaseColor.png
+
+newmtl SH2_MB_Sides
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Sides_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Sides_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Sides_Roughness.png
+refl D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Sides_BaseColor.png
+
+newmtl SH2_MB_Sides.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Sides.001_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Sides.001_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Sides.001_Roughness.png
+refl D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Sides.001_BaseColor.png
+
+newmtl SH2_MB_Sides.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Sides.004_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Sides.004_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Sides.004_Roughness.png
+refl D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_02.mtl_SH2_MB_Sides.004_BaseColor.png
+
+newmtl SH2_MB_Spillar_Base
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Spillar_Base_2_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Spillar_Base_2_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Spillar_Base_2_Roughness.png
+
+newmtl SH2_MB_Spillars
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Spillars_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Spillars_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Spillars_Roughness.png
+
+newmtl SH2_MB_Swoods
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Swoods_3_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Swoods_3_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Swoods_3_Roughness.png
+
+newmtl SH2_MB_Top
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Top_2_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Top_2_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Top_2_Roughness.png
+
+newmtl SH2_MB_Top_Design
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Top_Design_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Top_Design_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_MB_Top_Design_Roughness.png
+
+newmtl SH2_NN_Screws
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_NN_Screws_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_NN_Screws_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_NN_Screws_Roughness.png
+
+newmtl SH2_PP_Designs
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_PP_Designs_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_PP_Designs_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_PP_Designs_Roughness.png
+
+newmtl SH2_PP_Pilaars
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_PP_Pilaars_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_PP_Pilaars_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_PP_Pilaars_Roughness.png
+
+newmtl SH2_RR_Balls
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Rope_Testing_SH2_RR_Balls_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Rope_Testing_SH2_RR_Balls_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Rope_Testing_SH2_RR_Balls_Roughness.png
+
+newmtl SH2_RR_DW_01.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Textures\\Testing_02\\Shrine_02_Main_01_SH2_RR_DW_01.001_NormalOpenGL.jpg
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Textures\\Testing_02\\Shrine_02_Main_01_SH2_RR_DW_01.001_BaseColor.jpg
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Textures\\Testing_02\\Shrine_02_Main_01_SH2_RR_DW_01.001_Roughness.jpg
+
+newmtl SH2_RR_D_03.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Roof_Testing02_SH2_RR_D_03_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Roof_Testing02_SH2_RR_D_03_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Roof_Testing02_SH2_RR_D_03_Roughness.png
+
+newmtl SH2_RR_D_04.004
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Roof_Testing02_SH2_RR_D_04.003_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Roof_Testing02_SH2_RR_D_04.003_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Roof_Testing02_SH2_RR_D_04.003_Roughness.png
+
+newmtl SH2_RR_D_07
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Textures\\Testing_02\\Shrine_02_Main_01_SH2_RR_D_07_NormalOpenGL.jpg
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Textures\\Testing_02\\Shrine_02_Main_01_SH2_RR_D_07_BaseColor.jpg
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Textures\\Testing_02\\Shrine_02_Main_01_SH2_RR_D_07_Roughness.jpg
+
+newmtl SH2_RR_D_Wood_02.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Roof_Testing02_SH2_RR_D_Wood_02_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Roof_Testing02_SH2_RR_D_Wood_02_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Roof_Testing02_SH2_RR_D_Wood_02_Roughness.png
+
+newmtl SH2_RR_Roof.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Roof_Testing02_SH2_RR_Roof_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Roof_Testing02_SH2_RR_Roof_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Roof_Testing02_SH2_RR_Roof_Roughness.png
+
+newmtl SH2_RR_Roof_Wood.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Roof_Testing02_SH2_RR_Roof_Wood_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Roof_Testing02_SH2_RR_Roof_Wood_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Roof_Testing02_SH2_RR_Roof_Wood_Roughness.png
+
+newmtl SH2_RR_Rope.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Rope_Testing03_SH2_RR_Rope.001_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Rope_Testing03_SH2_RR_Rope.001_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Rope_Testing03_SH2_RR_Rope.001_Roughness.png
+
+newmtl SH2_RR_Rope_C
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Rope_Testing_SH2_RR_Rope_C_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Rope_Testing_SH2_RR_Rope_C_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Rope_Testing_SH2_RR_Rope_C_Roughness.png
+
+newmtl SH2_RR_Rope_D
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.068181 0.025500 0.011689
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Textures\\Rope\\Shrine_02_Rope_Testing02_SH2_RR_Rope_D_NormalOpenGL.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Textures\\Rope\\Shrine_02_Rope_Testing02_SH2_RR_Rope_D_Roughness.png
+
+newmtl SH2_RT_Top.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Roof_Testing02_SH2_RT_Top_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Roof_Testing02_SH2_RT_Top_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Roof_Testing02_SH2_RT_Top_Roughness.png
+
+newmtl SH2_RT_Top_D_002.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Roof_Testing02_SH2_RT_Top_D_002_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Roof_Testing02_SH2_RT_Top_D_002_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Roof_Testing02_SH2_RT_Top_D_002_Roughness.png
+
+newmtl SH2_RT_Top_design.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Roof_Testing02_SH2_RT_Top_design_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Roof_Testing02_SH2_RT_Top_design_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Roof_Testing02_SH2_RT_Top_design_Roughness.png
+
+newmtl SH2_SS_Base_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Base_01_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Base_01_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Base_01_Roughness.png
+
+newmtl SH2_SS_Base_02
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Textures\\Testing_02\\Shrine_02_Main_01_SH2_SS_Base_02_NormalOpenGL.jpg
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Textures\\Testing_02\\Shrine_02_Main_01_SH2_SS_Base_02_BaseColor.jpg
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Textures\\Testing_02\\Shrine_02_Main_01_SH2_SS_Base_02_Roughness.jpg
+
+newmtl SH2_SS_Handles
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Handles_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Handles_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Handles_Roughness.png
+
+newmtl SH2_SS_Steps.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Steps.001_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Steps.001_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Steps.001_Roughness.png
+
+newmtl SH2_SS_Steps.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Steps.002_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Steps.002_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Steps.002_Roughness.png
+
+newmtl SH2_SS_Steps.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Steps.003_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Steps.003_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Steps.003_Roughness.png
+
+newmtl SH2_SS_Steps.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Steps.004_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Steps.004_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Steps.004_Roughness.png
+
+newmtl SH2_SS_Steps.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Steps.005_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Steps.005_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Steps.005_Roughness.png
+
+newmtl SH2_SS_Steps.006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Steps.006_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Steps.006_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Steps.006_Roughness.png
+
+newmtl SH2_SS_Steps.007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Steps.007_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Steps.007_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Steps.007_Roughness.png
+
+newmtl SH2_SS_Support
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Support_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Support_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SS_Support_Roughness.png
+
+newmtl SH2_SW_woods.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.001_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.001_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.001_Roughness.png
+
+newmtl SH2_SW_woods.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.002_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.002_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.002_Roughness.png
+
+newmtl SH2_SW_woods.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.003_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.003_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.003_Roughness.png
+
+newmtl SH2_SW_woods.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.004_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.004_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.004_Roughness.png
+
+newmtl SH2_SW_woods.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.005_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.005_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.005_Roughness.png
+
+newmtl SH2_SW_woods.006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.006_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.006_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.006_Roughness.png
+
+newmtl SH2_SW_woods.007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.007_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.007_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.007_Roughness.png
+
+newmtl SH2_SW_woods.008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.008_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.008_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.008_Roughness.png
+
+newmtl SH2_SW_woods.009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.009_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.009_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.009_Roughness.png
+
+newmtl SH2_SW_woods.010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.010_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.010_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.010_Roughness.png
+
+newmtl SH2_SW_woods.011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.011_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.011_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.011_Roughness.png
+
+newmtl SH2_SW_woods.012
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.012_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.012_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.012_Roughness.png
+
+newmtl SH2_SW_woods.013
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.013_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.013_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.013_Roughness.png
+
+newmtl SH2_SW_woods.014
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.014_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.014_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.014_Roughness.png
+
+newmtl SH2_SW_woods.015
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.015_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.015_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.015_Roughness.png
+
+newmtl SH2_SW_woods.016
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.016_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.016_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.016_Roughness.png
+
+newmtl SH2_SW_woods.017
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.017_NormalOpenGL.png
+map_Kd D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.017_BaseColor.png
+map_Ns D:\\Arun\\Substance painter\\Work Files\\Personal Project 1 Testing 1\\Exports\\Shrine_02_Testing\\Final_Textures\\Shrine_02_Main_01_SH2_SW_woods.017_Roughness.png
